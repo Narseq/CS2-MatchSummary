@@ -1,0 +1,20 @@
+{
+  "prefix": " {green}[Summary]{default}",
+  "header": "{gold}Map summary{default} · {lightblue}{0}{default}",
+  "no_data": "Not enough rounds played to build a summary.",
+  "line": "ADR {gold}{0}{default} · {1}/{2}/{3} · HS {4}%",
+  "top_row": "{gold}#{0}{default} {lightblue}{1}{default} · {2}",
+  "award_kills": "{lime}Most kills:{default} {1} - {0}",
+  "award_hs": "{lime}Best headshot %:{default} {1} - {0}",
+  "award_entry": "{lime}Entry fragger:{default} {1} opening kills - {0}",
+  "award_clutch": "{lime}Clutch master:{default} {1} - {0}",
+  "award_utility": "{lime}Utility damage:{default} {1} - {0}",
+  "award_mvp": "{lime}Most MVPs:{default} {1} - {0}",
+  "clutch_value": "{0} won (best 1v{1})",
+  "place": "#{0} of {1}",
+  "place_none": "unranked (min. {0} rounds)",
+  "personal": "{lightblue}You:{default} {0} · {1} · 3k/4k/5k: {2}/{3}/{4}",
+  "stats_header": "Your stats on this map ({0} rounds):",
+  "stats_extra": "Entries {0} · clutches {1} · utility dmg {2} · flash assists {3} · MVP {4}",
+  "stats_empty": "No stats for you on this map yet."
+}

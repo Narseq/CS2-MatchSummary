@@ -1,0 +1,20 @@
+{
+  "prefix": " {green}[Podsumowanie]{default}",
+  "header": "{gold}Podsumowanie mapy{default} · {lightblue}{0}{default}",
+  "no_data": "Za mało rozegranych rund, żeby zrobić podsumowanie.",
+  "line": "ADR {gold}{0}{default} · {1}/{2}/{3} · HS {4}%",
+  "top_row": "{gold}#{0}{default} {lightblue}{1}{default} · {2}",
+  "award_kills": "{lime}Najwięcej zabójstw:{default} {1} - {0}",
+  "award_hs": "{lime}Najlepszy HS%:{default} {1} - {0}",
+  "award_entry": "{lime}Entry fragger:{default} {1} otwarć - {0}",
+  "award_clutch": "{lime}Mistrz clutchy:{default} {1} - {0}",
+  "award_utility": "{lime}Obrażenia granatami:{default} {1} - {0}",
+  "award_mvp": "{lime}Najwięcej MVP:{default} {1} - {0}",
+  "clutch_value": "wygrane: {0} (najlepszy 1v{1})",
+  "place": "#{0} z {1}",
+  "place_none": "poza rankingiem (min. {0} rund)",
+  "personal": "{lightblue}Ty:{default} {0} · {1} · 3k/4k/5k: {2}/{3}/{4}",
+  "stats_header": "Twoje statystyki na tej mapie ({0} rund):",
+  "stats_extra": "Otwarcia {0} · clutche {1} · obrażenia granatami {2} · asysty flashem {3} · MVP {4}",
+  "stats_empty": "Nie masz jeszcze statystyk na tej mapie."
+}
